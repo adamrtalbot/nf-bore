@@ -1,0 +1,13 @@
+.DS_Store
+.cache
+.idea
+serve
+nextflow
+work
+.nextflow*
+nf-training/results
+transcript-index
+.vscode
+data
+work
+results
